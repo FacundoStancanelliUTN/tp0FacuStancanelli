@@ -1,0 +1,4 @@
+[INFO] 16:03:32:011 Servidor/(5714:5714): 4444
+[INFO] 16:03:32:012 Servidor/(5714:5714): Servidor listo para recibir al cliente 5
+[INFO] 16:03:32:012 Servidor/(5714:5714): Se conecto un cliente!
+[ERROR] 16:03:32:012 Servidor/(5714:5714): el cliente se desconecto. Terminando servidor
